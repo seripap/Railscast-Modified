@@ -1,7 +1,10 @@
-# Sublime Text 2 - RailsCasts Theme
+# Sublime Text 2/3 - RailsCasts Theme - Modified by Seripap
+
+Modified by Seripap version; No crazy modifications, just different colors to align to my purposes. You must clone this to your package directory yourself if you wish to use it.
+
+-------------------
 
 Dark UI theme for Sublime Text 2 based on [Ryan Bates](http://railscasts.com/about) ([@rbates](https://twitter.com/rbates) ) [RailsCasts TextMate theme](http://media.railscasts.com/resources/textmate_theme.zip).
-
 
 
 ![Railscasts Theme](http://cl.ly/2F1T1a3a2T1Z2c3F071W/Screen%20Shot%202012-07-06%20at%208.26.52%20AM.png "Railscasts Theme")
